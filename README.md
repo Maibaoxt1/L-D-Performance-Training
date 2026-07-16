@@ -4,8 +4,7 @@ This project is an end-to-end Data Analytics solution designed to support the L&
 
 ## 🛠️ Tech Stack & Tools Used
 * **Data Processing (ETL):** Microsoft Excel (Power Query, Pivot Tables, Advanced Data Formulas).
-* **Data Visualization & Modeling:** Power BI (DAX, Star Schema Data Modeling, Interactive Dashboards).
-* **UI/UX Design:** Custom JSON theming adhering to corporate brand guidelines to ensure a seamless and professional user experience.
+* **Data Visualization & Modeling:** Power BI (DAX, Interactive Dashboards).
 
 ## 🚀 Key Features & Responsibilities
 * **Data Cleaning & Standardization:** Consolidated and cleansed raw training data from multiple sources using Excel and Power Query to ensure high data integrity.
