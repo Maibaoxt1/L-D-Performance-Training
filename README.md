@@ -7,7 +7,7 @@ This project is an end-to-end Data Analytics solution designed to support the L&
 * **Data Visualization & Modeling:** Power BI (DAX, Interactive Dashboards).
 
 ## 🚀 Key Features & Responsibilities
-* **Data Cleaning & Standardization:** Consolidated and cleansed raw training data from multiple sources using Excel and Power Query to ensure high data integrity.
+* **Data Cleaning & Exploratory Analysis: Sourced raw vocational training feedback dataset from Kaggle. Cleansed and standardized the data using Excel Power Query. Utilized Pivot Tables to conduct initial Exploratory Data Analysis (EDA), summarize metric distributions, and validate data accuracy prior to building the Data Model in Power BI.
 * **Comprehensive KPI Tracking:** Engineered dynamic DAX measures to track critical L&D metrics, including Total Enrollments, Attendance Rate, Completion Rate, and Average Training Minutes.
 * **Instructor & Course Evaluation:** Developed visual analyses to evaluate instructor effectiveness and course satisfaction based on post-training survey ratings.
 * **Interactive Navigation:** Implemented a Z-pattern layout with dynamic slicers (Course ID, Evaluation, Institution ID) for an intuitive data exploration experience.
