@@ -14,7 +14,7 @@ This project is an end-to-end Data Analytics solution designed to support the L&
 
 ## 💡 Key Business Insights
 1. **Learning Time vs. Practical Application:** Built a Scatter Plot with a trendline to analyze the correlation between LMS time spent and actual observation ratings, helping the L&D team identify courses that require content restructuring.
-![Logo dự án](Images/Screenshot 2026-07-17 064341.png)
+![](Images/Certification_Status_by_Course.png)
 3. **Targeted Resource Allocation:** By isolating Certification Rates across different courses and institutions, the dashboard allows Store Managers and HR Leaders to pinpoint underperforming branches and allocate training resources efficiently.
 
 ## 📸 Dashboard Preview
