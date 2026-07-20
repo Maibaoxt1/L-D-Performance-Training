@@ -20,12 +20,30 @@ This project is an end-to-end Data Analytics solution designed to support the L&
 * **Lack of Absolute Outliers:** No single institution demonstrates absolute superiority across both metrics. The performance is generally clustered around the median.
 * **Top Performers:** Institutions 1 and 5 are the most balanced branches, landing in the top-right quadrant. However, they only perform slightly above the systemic average (Completion ~58.70%, Satisfaction ~2.99), suggesting that there is still significant room for system-wide L&D optimization.
 
-![](Images/Institution_Performance_Satisfaction_vs_Completion.png)
+  ![](Images/Institution_Performance_Satisfaction_vs_Completion.png)
 
 3. **Course Satisfaction Insights:** The satisfaction ratings across all courses are tightly clustered around the 3.0 mark, with a very narrow margin between the highest (`ELEC-202` at 3.09) and the lowest (`MECH-303` at 2.87). This indicates a generally neutral reception and suggests that the overall training delivery method is consistent, without any extreme outliers polarizing the trainees.
 ![](Images/Course_Satisfaction.png)
-## 📸 Dashboard Preview
-![L&D Dashboard View](BẠN_CHÈN_LINK_ẢNH_DASHBOARD_VÀO_ĐÂY)
+4. **Evaluation Distribution:** The most alarming metric within the distribution is the 'Failed' segment, which accounts for the largest single proportion at nearly 41% (395 trainees). This unusually high failure rate signals a critical systemic misalignment—whether it be unrealistic course difficulty, inadequate training delivery, or a flawed testing mechanism—requiring immediate investigation by the L&D department.
+![](Images/Evaluation_Distribution.png)
+5. **Learning Time vs Satisfaction:** 
+* The near-horizontal trendline clearly indicates that there is no significant correlation between the total time spent on the LMS and the actual practical observation rating. An employee logging 600+ minutes does not inherently perform better on the floor than one logging 150 minutes.
+* This suggests that training effectiveness depends on additional factors beyond time spent, such as instructional quality, learner engagement, or course design.
+* Learning time does not appear to be the primary driver of training outcomes. Therefore, increasing learning hours alone may not be the most effective strategy for improving performance.
+  
+  ![](Images/Learning_Time_vs_Observation_Rating1.png)
+
+6. **Instructor Performance:**  
+* Instructor 486 clearly leads with 4.17/5.
+* Instructor 468 is the lowest, at only 2.00/5.
+* The gap between the highest and lowest is 2.17 points, which is quite significant.
+* Instructor performance has a higher degree of polarization/variance than course satisfaction and institution satisfaction.
+
+This is a strong indication that the instructor might be a major factor influencing the overall training experience.
+  ![](Images/Instructor_Performance.png)
+
+## Dashboard Preview
+![L&D Dashboard View](https://app.powerbi.com/groups/me/reports/890e038b-770b-4779-b7b1-9d8250d8459d?ctid=2dff09ac-2b3b-4182-9953-2b548e0d0b39&pbi_source=linkShare)
 
 ---
-*Designed and developed by **Mai Quoc Bao** - Information Systems Student passionate about HR Analytics, Data Visualization, and Business Intelligence.*
+*Designed and developed by **Mai Quoc Bao** - Information Systems Student.*
