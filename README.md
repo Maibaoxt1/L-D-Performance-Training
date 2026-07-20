@@ -43,7 +43,7 @@ This is a strong indication that the instructor might be a major factor influenc
   ![](Images/Instructor_Performance.png)
 
 ## Dashboard Preview
-![Dashboard View (Click here)](https://app.powerbi.com/groups/me/reports/890e038b-770b-4779-b7b1-9d8250d8459d?ctid=2dff09ac-2b3b-4182-9953-2b548e0d0b39&pbi_source=linkShare)
+[Dashboard View (Click here)](https://app.powerbi.com/groups/me/reports/890e038b-770b-4779-b7b1-9d8250d8459d?ctid=2dff09ac-2b3b-4182-9953-2b548e0d0b39&pbi_source=linkShare)
 
 ![](Images/Dashboard_img.png)
 ---
