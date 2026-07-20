@@ -21,6 +21,7 @@ This project is an end-to-end Data Analytics solution designed to support the L&
 * **Top Performers:** Institutions 1 and 5 are the most balanced branches, landing in the top-right quadrant. However, they only perform slightly above the systemic average (Completion ~58.70%, Satisfaction ~2.99), suggesting that there is still significant room for system-wide L&D optimization.
 
 ![](Images/Institution_Performance_Satisfaction_vs_Completion.png)
+
 3. **Course Satisfaction Insights:** The satisfaction ratings across all courses are tightly clustered around the 3.0 mark, with a very narrow margin between the highest (`ELEC-202` at 3.09) and the lowest (`MECH-303` at 2.87). This indicates a generally neutral reception and suggests that the overall training delivery method is consistent, without any extreme outliers polarizing the trainees.
 ![](Images/Course_Satisfaction.png)
 ## 📸 Dashboard Preview
