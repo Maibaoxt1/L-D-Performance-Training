@@ -43,7 +43,7 @@ This is a strong indication that the instructor might be a major factor influenc
   ![](Images/Instructor_Performance.png)
 
 ## Dashboard Preview
-[Dashboard View (Click here)](https://app.powerbi.com/groups/me/reports/890e038b-770b-4779-b7b1-9d8250d8459d?ctid=2dff09ac-2b3b-4182-9953-2b548e0d0b39&pbi_source=linkShare)
+You can download the `.pbix` file included in this repository to interact with the raw data model in Power BI Desktop, or review the static overview in the attached `L&D Performance & Training Dashboard.pdf`.
 
 ![](Images/Dashboard_img.png)
 ---
