@@ -12,6 +12,11 @@ This project is an end-to-end Data Analytics solution designed to support the L&
 * **Instructor & Course Evaluation:** Developed visual analyses to evaluate instructor effectiveness and course satisfaction based on post-training survey ratings.
 * **Interactive Navigation:** Implemented a Z-pattern layout with dynamic slicers (Course ID, Evaluation, Institution ID) for an intuitive data exploration experience.
 
+## 📗 Data Validation & Exploratory Data Analysis (Excel Pivot Table)
+*   **Certification Rate by Course:** Summarized the distribution of evaluation outcomes (Failed, Average, Good, Excellent) and total student counts for core courses like AUT-101, ELEC-202, and MECH-303. This table quickly surfaced the critical 41.30% overall failure rate, establishing the baseline for identifying systemic L&D issues prior to data visualization.
+*   **Instructor Performance Assessment:** Cross-tabulated `Instructor_id` with average survey ratings and instructor evaluation scores, dynamically segmented by the courses they teach. This matrix was engineered to isolate human-factor variables and detect early variances in teaching quality across the faculty.
+*   **Detailed Learning Performance:** Aggregated trainee-level engagement metrics—including sum of LMS logins, time spent in minutes, attendance percentage, and observation ratings—grouped by `Student_id` with dynamic filtering by `course_id`. This structured view served as the crucial data validation step before analyzing the correlation between theoretical study time and practical competency.
+
 ## 💡 Key Business Insights
 1. **Certification Status by Course:** The difference between the courses is not significant. This suggests that the completion issue might not stem from a single course, but rather is more systemic.
 ![](Images/Certification_Status_by_Course.png)
